@@ -1,0 +1,4 @@
+../Core/Src/parser.c:8:6:RB_to_command	24	static
+../Core/Src/parser.c:31:6:parse_LED	24	static
+../Core/Src/parser.c:85:13:parse_NAME	80	static
+../Core/Src/parser.c:123:6:comandParser	24	static
